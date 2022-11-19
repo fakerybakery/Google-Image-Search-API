@@ -58,3 +58,7 @@ Remove CORS proxy
 ###### November 19, 2022
 
 Added more examples
+
+###### November 19, 2022
+
+Add example objects
