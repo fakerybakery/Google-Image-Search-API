@@ -36,22 +36,22 @@ See the `example` files. More coming soon!
 
 ## Changelog
 
-November 18, 2022
+###### November 18, 2022
 
 Initial commit - NodeJS only
 
-November 18, 2022
+###### November 18, 2022
 
 Improved examples
 
 Search for more than 20 images
 
-November 18, 2022
+###### November 18, 2022
 
 Port to PHP
 
 Remove CORS proxy
 
-November 19, 2022
+###### November 19, 2022
 
 Added more examples
