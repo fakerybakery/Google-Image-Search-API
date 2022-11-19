@@ -1,4 +1,6 @@
-# Google Image Search Free NodeJS API
+# Google Image Search Free ~~NodeJS~~ API
+## ~~NodeJS~~
+I have now ritten a port of this software to PHP.
 ### Personal Use Only
 ## YOU MAY NOT USE THIS SOFTWARE
 ### UNLESS
