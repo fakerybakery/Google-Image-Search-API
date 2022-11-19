@@ -1,0 +1,659 @@
+Aardvark
+Aardwolf
+African buffalo
+African elephant
+African leopard
+Agama
+Aircraft
+Airplane
+Alarm clock
+Alaska crab
+Albatross
+Alligator
+Alpaca
+American buffalo (bison)
+American robin
+Amphibian
+Anaconda
+Anemone
+Angelfish
+Anglerfish
+Ant
+Anteater
+Antelope
+Antlion
+Apartment building
+Ape
+Aphid
+Apple phone
+Apron
+Arabian leopard
+Arctic Fox
+Arctic Wolf
+Armadillo
+Armchair
+Arrow crab
+Asp
+Automobile
+Axolotl
+Baboon
+Backpack
+Badger
+Bag
+Bakery
+Bald eagle
+Bali cattle
+Ball
+Ballpoint pen
+Band aid
+Bandicoot
+Banjo
+Bannister
+Barber chair
+Barn
+Barn spider
+Barnacle
+Barracuda
+Baseball
+Basilisk
+Basketball
+Bass
+Bat
+Bath towel
+Bathing cap
+Bathrobe
+Beagle (dog)
+Beaked whale
+Bear
+Beaver
+Bed
+Bedbug
+Bee
+Bee eater
+Beetle
+Bicycle
+Bighorn (sheep)
+Bird
+Bison
+Black grouse
+Black panther
+Black swan
+Black widow (spider)
+Black widow spider
+Blackbird
+Blanket
+Blinds
+Bloodhound (dog)
+Blouse
+Blue bird
+Blue jay
+Blue whale
+Boa
+Boa constrictor (snake)
+Boar
+Bobcat
+Bobolink
+Booby
+Book
+Bookcase
+Bowl
+Box
+Box jellyfish
+Brambling
+Brown bear
+Bubble
+Buffalo
+Buffalo, African
+Buffalo, American (bison)
+Bug
+Bulbul
+Bullfrog
+Butterfly
+Buzzard
+Cable
+Camel
+Camera
+Canid
+Canidae
+Cape buffalo
+Capybara
+Car
+Cardinal
+Caribou
+Carp
+Cat
+Caterpillar
+Catfish
+Catshark
+Cattle
+Cellular phone
+Centipede
+Cephalopod
+Chair
+Chameleon
+Cheetah
+Chickadee
+Chicken
+Chimpanzee
+Chinchilla
+Chipmunk
+Cicada
+Clam
+Clipboard
+Clock
+Cloud
+Clownfish
+Cobra
+Cock
+Cockroach
+Cod
+Coffee maker
+Computer
+Computer mouse
+Conch
+Condor
+Constrictor
+Coral
+Cord
+Cougar
+Cow
+Coyote
+Crab
+Crampfish
+Crane
+Crane fly
+Crawdad
+Crayfish
+Cricket
+Crocodile
+Crow
+Cuckoo
+Cup
+Cupboard
+Curtain
+Damselfly
+Deer
+Desk
+Desktop
+Dingo
+Dinosaur
+Dish
+Dog
+Dolphin
+Domestic Bactrian camel
+Domestic canary
+Domestic dromedary camel
+Domestic duck
+Domestic goat
+Domestic goose
+Domestic guineafowl
+Domestic hedgehog
+Domestic pig
+Domestic pigeon
+Domestic rabbit
+Domestic silkmoth
+Domestic silver fox
+Domestic turkey
+Donkey
+Door
+Dormouse
+Dove
+Dragon
+Dragonfly
+Dress
+Duck
+Dung beetle
+Dungeness crab
+Eagle
+Earthworm
+Earwig
+Echidna
+Eel
+Egret
+Electric eel
+Electric ray
+Elephant
+Elephant seal
+Elk
+Emu
+English pointer
+Ermine
+Falcon
+Fancy mouse
+Fancy rat
+Fancy rat varieties
+Felidae
+Ferret
+Fiddler crab
+Finch
+Firefly
+Fish
+Flamingo
+Flea
+Fly
+Flyingfish
+Fork
+Fowl
+Fox
+Fridge
+Frog
+Fruit bat
+Galliform
+Gamefowl
+Garter snake
+Gayal
+Gazelle
+Gecko
+Gerbil
+Giant panda
+Giant squid
+Gibbon
+Gila monster
+Giraffe
+Glass
+Glue
+Goat
+Golden retriever (dog)
+Goldfinch
+Goldfish
+Goose
+Gopher
+Gorilla
+Grass
+Grasshopper
+Gray whale
+Great blue heron
+Great gray owl
+Great white shark
+Green mamba
+Green snake
+Greyhound (dog)
+Grizzly bear
+Ground shark
+Ground sloth
+Grouse
+Guan
+Guanaco
+Guinea pig
+Guineafowl
+Guitar
+Gull
+Guppy
+Haddock
+Halibut
+Hammerhead
+Hammerhead shark
+Hamset
+Hamster
+Hard drive
+Hare
+Harp
+Harrier
+Hawk
+Hedgehog
+Helmet
+Hen
+Hermit crab
+Heron
+Herring
+Hill
+Hippopotamus
+Hog
+Hognose snake
+Hoodie
+Hookworm
+Hornet
+Horse
+Hound (dog)
+House
+House finch
+Hoverfly
+Hummingbird
+Humpback whale
+Hyena
+Ibex
+Iguana
+Impala
+Irukandji jellyfish
+Jackal
+Jacket
+Jaguar
+Jay
+Jellyfish
+Junglefowl
+Kangaroo
+Kangaroo mouse
+Kangaroo rat
+Key
+Keyboard
+Killer whale
+King crab
+King snake
+Kingfisher
+Kit
+Kite
+Kiwi
+Knife
+Koala
+Koi
+Komodo dragon
+Krill
+Lab rat
+Lacewing
+Ladybug
+Lamp
+Lamprey
+Land snail
+Landfowl
+Landline phone
+Laptop
+Lark
+Leafhopper
+Leech
+Lemming
+Lemur
+Leopard
+Leopon
+Limpet
+Linnet
+Lion
+Lizard
+Llama
+Lobster
+Locust
+Loon
+Louse
+Lungfish
+Lynx
+Macaw
+Mackerel
+Magpie
+Maltese (dog)
+Mammal
+Manatee
+Mandrill
+Manta ray
+Mantis
+Marlin
+Marmoset
+Marmot
+Marsupial
+Marten
+Mastodon
+Meadowlark
+Meerkat
+Mink
+Minnow
+Mirror
+Mite
+Mockingbird
+Mole
+Mollusk
+Monarch butterfly
+Mongoose
+Monitor
+Monitor display
+Monitor lizard
+Monkey
+Moose
+Mosquito
+Moth
+Mountain
+Mountain goat
+Mouse
+Mouse (Animal)
+Mule
+Mushroom
+Muskox
+Narwhal
+Nautilis
+New World quail
+Newt
+Night snake
+Nightingale
+Notebook
+Notebook computer
+Numbfish
+Ocelot
+Octopus
+Old World quail
+Opossum
+Orangutan
+Orca
+Ostrich
+Otter
+Owl
+Ox
+Pan
+Panda
+Panther
+Panthera hybrid
+Pants
+Paper
+Parakeet
+Parrot
+Parrotfish
+Partridge
+Peacock
+Peafowl
+Pekinese (dog)
+Pelican
+Pen
+Pencil
+Penguin
+Perch
+Peregrine falcon
+Pheasant
+Piano
+Pig
+Pigeon
+Pika
+Pike
+Pillow
+Pilot whale
+Pinniped
+Piranha
+Pixel
+Planarian
+Platypus
+Polar bear
+Pony
+Poodle (dog)
+Porcupine
+Porpoise
+Portuguese man o' war
+Possum
+Pot
+Prairie dog
+Prawn
+Praying mantis
+Primate
+Printer
+Ptarmigan
+Puffin
+Puma
+Python
+Quail
+Quelea
+Quokka
+Rabbit
+Raccoon
+Rainbow trout
+Raincoat
+Rat
+Rattlesnake
+Raven
+Ray (Batoidea)
+Ray (Rajiformes)
+Red panda
+Reindeer
+Reptile
+Rhinoceros
+Right whale
+Ringlet
+Ringneck dove
+Ringneck snake
+Roadrunner
+Rock crab
+Rodent
+Rook
+Rooster
+Roundworm
+Ruler
+Saber-toothed cat
+Sailfish
+Salamander
+Salmon
+Sawfish
+Scale insect
+Scallop
+Scorpion
+Sea lion
+Sea slug
+Sea snail
+Sea urchin
+Seahorse
+Shark
+Sheep
+Shirt
+Shoe
+Showerhead
+Shrew
+Shrimp
+Siamese fighting fish
+Silkworm
+Silverfish
+Sink
+Skateboard
+Skink
+Skirt
+Skunk
+Sliding door
+Sloth
+Slug
+Smartwatch
+Smelt
+Snail
+Snake
+Snipe
+Snorkel
+Snow leopard
+Soap
+Society finch
+Sockeye salmon
+Sofa
+Sole
+Sorrel
+Spaniel
+Sparrow
+Sperm whale
+Spider
+Spider monkey
+Spoon
+Spoonbill
+Squid
+Squirrel
+Star-nosed mole
+Starfish
+Steelhead trout
+Steering wheel
+Stick shift
+Stingray
+Stoat
+Stool
+Stork
+Stove
+Sturgeon
+Sugar glider
+Sun
+Swallow
+Swan
+Sweater
+Swift
+Swimmer's snorkel
+Swimming cap
+Swimming pool
+Swordfish
+Swordtail
+T-shirt
+Tahr
+Takin
+Tapir
+Tarantula
+Tarsier
+Tasmanian devil
+Tench
+Termite
+Tern
+Terrier (dog)
+Thrush
+Thunder snake
+Tick (bug)
+Tiger
+Tiger shark
+Timer
+Toad
+Tongue
+Toothbrush
+Tortoise
+Toucan
+Towel
+Trapdoor spider
+Trashcan
+Tree
+Tree frog
+Trout
+Tuna
+Turkey
+Turtle
+Tusker
+Tyrannosaurus
+Urial
+Valley
+Vampire bat
+Vampire squid
+Vicuna
+Vine snake
+Violin
+Viper
+Vole
+Vulture
+Walking stick
+Wallaby
+Wallet
+Walrus
+Warbler
+Warthog
+Washing machine
+Wasp
+Watch
+Water Boa
+Water buffalo
+Water ouzel
+Water snake
+Weasel
+Weevil
+Whale
+Whippet
+Whiteboard
+Whitefish
+Whooping crane
+Wildcat
+Wildebeest
+Wildfowl
+Window
+Wolf
+Wolf spider
+Wolfhound (dog)
+Wolverine
+Wombat
+Woodpecker
+Worm
+Worm snake
+Wren
+X-ray fish
+Xerinae
+Yak
+Yellow perch
+Zebra
+Zebra finch
