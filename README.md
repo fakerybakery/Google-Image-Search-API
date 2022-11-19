@@ -5,7 +5,7 @@ I have now written a port of this software to PHP.
 ## DISCLAIMER
 I am not liable if you get banned from Google. Use a VPN.
 ## LICENSE
-Closed Source License. You must first get written permission by creating an `Issue`. Please follow me @fakerybakery and star this repo. No use, even for personal use, without prior written permission.
+Closed Source License. You must first get written permission by creating an `Issue`. Please follow me @fakerybakery and star this repo. No use is allowed, even for personal use, without prior written permission.
 ## Requirements
 JSDOM
 ```
