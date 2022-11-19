@@ -22,6 +22,8 @@ I am not liable for any damage/harm caused through this product. Use at your own
 
 Closed Source License. You must first get written permission by creating an `Issue`. Please follow me @fakerybakery and star this repo. No use is allowed, even for personal use, without prior written permission.
 
+I am planning to change the license in the future.
+
 ## Requirements (for NodeJS)
 JSDOM
 ```
