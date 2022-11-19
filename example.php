@@ -18,6 +18,11 @@ function searchImage($query) {
         return $imglist;
     }
 }
+// Show 20 results
 foreach(searchImage('Test') as $img) {
+    echo '<img src="' . htmlspecialchars($img) . '">';
+}
+// Show a variable number of results, e.g. 24
+foreach(searchImage('Test', 24) as $img) {
     echo '<img src="' . htmlspecialchars($img) . '">';
 }
