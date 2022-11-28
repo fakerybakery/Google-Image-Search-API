@@ -13,7 +13,7 @@ function searchImage(query) {
         }),
     }
     return new Promise(function (resolve, reject) {
-        fetch("https://corsproxy.io/?https://www.google.com/search?source=lnms&sa=X&gbv=1&tbm=isch&q=" + query, options)
+        fetch("https://www.google.com/search?source=lnms&sa=X&gbv=1&tbm=isch&q=" + query, options)
             .then((res) => res.text())
             .then((res) => {
                 var p = new jsdom.JSDOM(res);
