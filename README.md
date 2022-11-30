@@ -5,6 +5,9 @@
 | I'm working on a crawler for Web results, News results, and Shopping results. Stay posted :eyes:!
 | ---
 
+| If you like this tool, please star this on GitHub! @fakerybakery/Google-Image-Search-API!
+| ---
+
 ## NodeJS and PHP
 
 This software was originally written in NodeJS, however for large amounts of objects, I would get an error about there being too many files open at a given time. That's why I ported it to PHP, which runs each one non-async.
